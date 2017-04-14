@@ -1,0 +1,4 @@
+Sitemap: https://dev.wiseeyesent.com/sitemapindex.xml
+
+User-Agent: *
+Host: dev.wiseeyesent.com

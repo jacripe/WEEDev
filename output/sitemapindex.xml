@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/categories/cat_news.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/categories/nikola.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/categories/python-django-dev.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/categories/updates.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/categories/website.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/galleries/rss.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/rss.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dev.wiseeyesent.com/sitemap.xml</loc>
+  <lastmod>2017-04-14T20:50:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
